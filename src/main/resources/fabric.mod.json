@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "timed-commands",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "Timed Commands",
 	"description": "A mod that allows executing commands at specific times and days of the week.",
 	"authors": [
@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/CNnfuisa/timed-commands-minecraft-fabric"
 	},
 	"license": "MIT",
 	"icon": "assets/timed-commands/icon.png",
